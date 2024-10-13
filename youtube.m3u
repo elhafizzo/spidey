@@ -540,7 +540,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Romania" tvg-logo="" tvg-id="", TRINITAS TV
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1728811319/ei/1zwLZ6ztF8b4sfIP_8HD2AY/ip/20.172.5.86/id/dIqzpDj441k.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51303818/txs/51303818%2C51303819%2C51303820%2C51303821/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54Mbxdi5eDGfivN1RdrziMCSspBh43YDsZxPh8MVay85HL4nErfQbsVQlTaR/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51300761/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJj43siyVQYfebiGAh4KeuiYFz33e9_K_IWpwGdqASHkAiEA4z-MOM3QyC096OTaT4hHrENIRydSnxPiFGwdOo2-RZM%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="" tvg-id="", NASA Live: Official Stream of NASA TV
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u

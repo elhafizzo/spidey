@@ -480,7 +480,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", HSN
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730798212/ei/JI4pZ-vlLryjir4PzorE6Ag/ip/172.183.161.203/id/1ph8qQnjXts.10/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51324827/txs/51324825%2C51324826%2C51324827%2C51324828/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApASIOpUSiB63LUmyu8b5IU3LBmxHHcvRX-0yGaM_cHEn-g8TfypbiKg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326932%2C51331020/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgRFgKU1tC-Q8u7mPMV-iLmhGP13A5oOTz49nbJ7uWuf8CIQCombektiQSBU9wDr4PDNv1rBZvi6iJogEfgCqLyO69Uw%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", HSN2
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u

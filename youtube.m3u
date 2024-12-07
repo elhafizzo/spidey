@@ -642,7 +642,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Livecam" tvg-logo="" tvg-id="", LIVE 24/7 Rolling Cam Venice - Live Cam in Venice Italy
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1733606043/ei/O2ZUZ-eiMdjHsfIP_ruqwA0/ip/20.172.2.97/id/ph1vpnYIxJk.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51340657/txs/51340226%2C51340657/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAfH7BDlHdUN1YKUbysZJZoXDt0zCbsVEHMvE3gMccPx7LtNe3msgFcEVzVU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51347746%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgVrqpaoNy6gJK3pAEU19qtcYDbIwht8Uwp0Ww90zY3fQCIQDijI_4RZaN31iZhQfEZgy6xTKxh8yfmU0znexXEzxJdw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Livecam" tvg-logo="" tvg-id="", Deer Pantry "Trough View"
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -675,13 +675,13 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/rVWYpIT.png" tvg-id="", The Good Life Radio
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1733606052/ei/RGZUZ9SDIYGYsfIPipS6uQU/ip/20.172.2.97/id/36YnV9STBqc.11/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAeRU_BbTSjBYQ578svzovKOD-UxCD_s9Xl-tvzuT6wkGclK9OVwe6xWqua8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51319288%2C51326932%2C51335594%2C51347747%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgOo3ZYwqhgDJK501jA-YlnPFPGi0T7pzKE7iCl8W_LyICIDcQzA3vthNOqHyqp8bdkrjCHaxUu3PbEPN-DeCILptq/file/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/rVWYpIT.png" tvg-id="", Deep House Radio
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/rVWYpIT.png" tvg-id="", Chill Out Music Mixe
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1733606054/ei/RmZUZ8CLHPuWsfIPl7_YsAU/ip/20.172.2.97/id/m52ynxt1mOo.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApARRBwXPwiWeOz0e1gtrkb3GJmcualrASyMm0zuuKUdM5P1h3xzFF1oMhDnU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326336%2C51326932%2C51335594%2C51347747%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgNtMAfcWn7zgWQIcLawGJAXSWRvEyTSSdOni69526Xh0CIQDtXiLi30hmkxGoY9204gWkqMTGO8jbY4zPVPlVMH-Hug%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/rVWYpIT.png" tvg-id="", Chillout Lounge
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -696,7 +696,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.imgur.com/YcqA1r5.png" tvg-id="", TVONE TV
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1733606059/ei/S2ZUZ8GALca-sfIPmYOuqQc/ip/20.172.2.97/id/yNKvkPJl-tg.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAbyzD80AoDtPs77uvpigOYlSxSbH3VuwVY19cye4S42nnkEfnL4M-XU_fbs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51347747%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgLikhqPNsgjfKnLw1SXSuR3OMeaPKIu-4w8cZNJVw-rACIQCkkU-fD7Bukbc2I0maFmz9SNmdDAZWsMIUXexLpHUOmw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.imgur.com/veSpg5d.png" tvg-id="", METRO TV TV
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -741,7 +741,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Arabic" tvg-logo="" tvg-id="", Al-Jazeera
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1733606073/ei/WWZUZ4qfEbCUsfIPxaTD-AI/ip/20.172.2.97/id/bNyUyrR0PHo.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51327527/txs/51327526%2C51327527%2C51327528/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAZCqPGDMKNKT1hTiPjXh7cZlbiPsKfhCGh9XAP2aRVHCM3PD7Xv-6fSLk-I/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51347747%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgKD08y__rE1dtunO0DnvzOTYYKl7qVvseg906xEmDALwCIQCf0bw3DSGBrmN7EnYV626eTrw2IIH5Kgz5ZJFQV-8q4Q%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Arabic" tvg-logo="" tvg-id="", Al-Jazeera Mubasher
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u

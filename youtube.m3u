@@ -513,7 +513,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan Landscape" tvg-logo="" tvg-id="", Alishan Taiping Suspension Bridge
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1741662837/ei/FVbPZ4PvJ5K1ir4P0rHZuA4/ip/172.183.175.201/id/dY2cRNr5Buw.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51393154/txs/51393154%2C51393155%2C51393156%2C51393157%2C51393158/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUWDL3zKUvcoSv3GV0r7xFg-3Gr_BUSjB2iLdCRenvyYf_oBppVtVZ_CCG5GqRA1sG0gfCMBk1AbEYGf/spc/RjZbSWN0nMcRlop12UU6PgJ9wbQURPDlx27_GE8qoeFRG_a2yWYA9eoRxDeZlmY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51326932%2C51355912%2C51358317%2C51411872/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgMxur2ZAkgk_jv4apJ_x-e-xrSvoVH5Bhvfu3sKV2qwUCIQCc9-Bo2mRggSeNFuVF5x4ep-63UPNJgRZCcr1C9Mnnyg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Taiwan Landscape" tvg-logo="" tvg-id="", Alishan Fenqihu
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u

@@ -459,7 +459,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Persian" tvg-logo="" tvg-id="", BBC Persian
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1745032376/ei/WMACaLTgKr6CkucP3r-AkQs/ip/20.42.16.115/id/IdnTOsEow0Q.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51442272/txs/51442271%2C51442272%2C51442273%2C51442274%2C51442275/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AccgBcM5HCoLz5MA8EHIk8deAAdJF3z6zXSVkx5kbyjorsRtL7vK5bS6INKyKU0OAmql7HuBnT06ARKW/spc/_S3wKjPlH3sVRLOhaykZU7sVSIxQLZvAYchYdc8O0pKvF1mUx__nCPvHldI864o/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANKetxw5qmMe11T87M0Qcykc5n_9ROrs0o6T-vCIxlrKAiBehx90ilsqfupOrhE9G_ION4EkPcjrexgudz2CJcDZ-w%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Euronews
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u

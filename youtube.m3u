@@ -507,13 +507,13 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan Landscape" tvg-logo="" tvg-id="", Taichung Gaomei Wetland 4K Live Camera
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1756426811/ei/252waMDYE_LQlu8Pp5ye8Qw/ip/52.159.247.65/id/fjhg3gAnMFg.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51567915/txs/51567915%2C51567916%2C51567917/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLN92clyeaJue6sZG9MGmvaUUyJqM1eDCAsUx_MWJt8KUVA-ChB_L8gnBs1W4pAZ_FR2DKv5VxfC/spc/l3OVKfpeHJceZAx41A1IhrFV9Ky69-ci4XsB9XR1X5yHyD1YDgSjwzJbjZYoBd-PMoI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOwtfndwB2WB7ES1wFPsQFc4fKQi3Jfg91qc2Gf7km2FAiBz8H3dixvdabmKTsPcLnK342y4tWG9fxil4uXPljGVPg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Taiwan Landscape" tvg-logo="" tvg-id="", Alishan Eryanping Trail
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan Landscape" tvg-logo="" tvg-id="", Alishan Taiping Suspension Bridge
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1756426813/ei/3Z2waIiDJpCulu8P88DiqQU/ip/52.159.247.65/id/dY2cRNr5Buw.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLMnkvfR2hsm_3fzll8m9GjWvdzXbuK-SaL8PX-DfLYs3VXvWyrHlq1TP5vQJdMtiNQcrI28dI7R/spc/l3OVKcdmu5VCpfNKMTZYfaAWaOCkQsZfirYwu-lvU1pgO6rYU2fexyfqGz4FEjk17nA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgLLA6eiXa6t45-WCm5c_xVBxV2MzaGYUpwjLR5wlTugECIQCCPx5tu_4tU58spAwpQp4tNdoxGTF_9TZuocpEPhuYWA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Taiwan Landscape" tvg-logo="" tvg-id="", Alishan Fenqihu
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u

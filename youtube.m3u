@@ -432,7 +432,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", Lokshahi News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1759138526/ei/fv7ZaNW-BpuN2_gP9vfu2Aw/ip/64.236.153.88/id/CbWl86Fc7qM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51548075/txs/51548075%2C51548076%2C51548077/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/ATw7iSVv8QQpOiTltRaon59Z9gCnZ4M1mb6rQ3Cjm2LpCaFhf9yKSj8qLsQW8LLppUeEmDc3qS4CGbhl/spc/hcYD5R4vWQ_YWxpq5cS-ycHgZN03gBAkp51P9kH6Msn3Iyes1qSveLB12cxgcGkA58Q/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968%2C51593650/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIQJ1rLmyNa2ykM9xA5xxxBbXzVFioAqCXAOWs_ID6MCAiAf-KCn9f9iG-7YaEM6vNwSwDZ6Ucvg2NwGFlehdPhLiA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", ZoomOn News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u

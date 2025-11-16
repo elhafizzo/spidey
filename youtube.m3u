@@ -528,7 +528,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan Landscape" tvg-logo="" tvg-id="", Taitung Duoliang Station Live Camera
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763317463/ei/d8IZaa7lHa-k-coPtfj8-AU/ip/128.24.160.163/id/UCG1aXVO8H8.18/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51660879/txs/51660875%2C51660876%2C51660877%2C51660878%2C51660879%2C51660880%2C51660881/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5S0KuylWgwvw89T2JEOGYQpy046ClrvlO3-CMK6qNpvajzWf_AAVNGg6g_NG3RGLE7N9SvbwTAV/spc/6b0G_Ay7HCOvgscrT-pQaokjPr6frwz55mV737PjmRYeYPgjKh32uNzyFQ9OLGSZAB8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgMcIBZNU_msp2cqMDnboZWWotguUOYOnS1vkqPCWv4tcCIQCQoRMcqUmYClsfsCj25VZgi7DzgFvSwTC8tD19QxLIPQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Taiwan Landscape" tvg-logo="" tvg-id="", Sanxiantai
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u

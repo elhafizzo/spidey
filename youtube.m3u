@@ -51,7 +51,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://7starcloud.in/NB.png" tvg-id="ts58", New18 TamilNadu
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767433911/ei/V5JYacaON6fZzN0P_-jAoAY/ip/135.232.208.147/id/PVKg7_9fgQs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AYUSA3CXyHe6CDza5wK-F1ZM5WUEu1lnbbFaDHf-doYtb8b9MqI4YJX2e9gKEo-5Inbvi5JaJl-vu9fk/spc/wH4QqxEtXNXgNs-vnFd6lT4bJ243fF33i_h85GEuSSwZkoXgL2pEG_d4yRQZqglwOxs/vprv/1/go/1/ns/E3NwT7tr8ZBLgM1ueHNWWB8R/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/n/kluhCLfcA9O4lTZmx0/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPKnBTFnTM0hh1FiyGZon11rxF-h_NFf6LuvqJYNTTdEAiBLjrK9oeHSW-muxn0JJHsXGmUgHz5CjmGoq8nvhYusnQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_793/LOGO/5Jz56JGv.png" tvg-id="677", Puthiya Thalaimurai
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -63,7 +63,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniz5-dorFPbRs3b2CYaJSV2VOVxq53EqcwdWOF8Gg=s900-c-k-c0x00ffffff-no-rj" tvg-id="", News 12 New York
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767433917/ei/XZJYaevSF-CpvPEP-sqh8AY/ip/135.232.208.147/id/JEtvLd4B-AY.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYUSA3DzMmKpNhIRbNNdor2COVODMyL8UebUiOUHWkM8iKxZkE0UyIigJ1r5nKrOjAbZF53dc-qMSzrl/spc/wH4Qq50K_6zfEzfOHQo5XpKHlGlpc8dgfnAzMLTa6NKmSqc6OXTLLtIOd1JobRQB9hs/vprv/1/go/1/ns/q9l-QAkAmUWgmenzWpOXTK0R/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/n/RO4dN-GB2Ymf57HmMu/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMuJQpiJMO6bOf15pSxqKdg8JgqopAn2ntoWTgS0EibRAiEA4mzh3VL7PPia6MWS-780uM5fsCb_ht6XLoNLMi5EzAk%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Albania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png" tvg-id="", Euronews Albania
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -321,13 +321,13 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="International News" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSGYwgujx1VgMYEpdurTfh8NRmOehOXf16DeMKoDfw=s176-c-k-c0x00ffffff-no-rj" tvg-id="", DW News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767433999/ei/r5JYaee8LrOFlu8Pq6jGwAY/ip/135.232.208.147/id/LuKwFajn37U.12/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYUSA3Dg5X1Kgoz3Wx1iwNSH-Vawp51Rruu3dd3SV22rajEZlKWMKsw0sc-2QddwBGRxbi6ea45iYgZ3/spc/wH4Qq4Mr2utyUbutBHEZD_DBFNZHaQw3WpNW5KjQXmoZTbu6Eq_VXR-6Y_UtfUwsmHk/vprv/1/go/1/ns/6U00ON7vwihGiRKCGLZ3nMAR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/n/AJchrBI4sWZEfhS887/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgXFzLRtiATlHpxJnLK9lTj-bwqyWx5fYtZ0ebT7lxw2cCIGQqGK9h9Rgefv8m88TJzecqs1wqQH90OVUZliQrbwTt/file/index.m3u8
 
 #EXTINF:-1 group-title="International News" tvg-logo="https://yt3.ggpht.com/E96qzkAoX81DQs7wqRHR4rNk1esa4quBPzda2QRzImlhoHOVgRdAN8o-S0Rb_hpygo_n4LdhwTE=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Sky News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="International News" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTmW20Du3RIn5YTCud3cZUaCWDkh_XdJ3fNKf_r=s176-c-k-c0x00ffffff-no-rj" tvg-id="", GBNews
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767434002/ei/spJYacCkHJXrlu8Prs2WoAo/ip/135.232.208.147/id/QliL4CGc7iY.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51666464/txs/51666463%2C51666464%2C51666465%2C51666466%2C51666467/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYUSA3DHoSjsOvVpZJc4qMJtNq9qeU9wvyogOJhUGQbOCTQbOQTVgHVDz2poMLEmwHPiMtht4n41mm2g/spc/wH4QqwgCBwpB3T2wXHuDa3zBuUbz4bkeGoog7ucUlrpQXinUVZ6KHGmtkBMc88wv8gM/vprv/1/go/1/ns/1aPAmAikW-Ix91mqkSSCO88R/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/n/PmoXBKYOrCnlqK8q2i/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKQ9aSlO1gzDJIjanvHK7T5khUX4DD09tZobEhYGrHu-AiEAj8aFNtuJJMbTGCRpSrlAhS1Szfzn7GPjDfx2LdTQRmI%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="International News" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQuzkdeUxIhS3KWZrYcDf4F8k2VC6SHZt2HlyzCM_c=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Al Jazeera English
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -372,7 +372,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", TVBS News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767434017/ei/wZJYadPMEZmozN0PtbyIgQ0/ip/135.232.208.147/id/2mCSYvcfhtc.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/bui/AYUSA3AjjK_Wiara-OLDe2W0LW1c2ClEIMxixPi8SXlJVfMwf_I-vnpbKu93rGVuCel_OD-kRSKtMnLf/spc/wH4Qq7VBi2km9ZLK56G27A8I9gkOkUSd-OSATlQrwgVl6gWgy8KYHpdYbR0zPGglwtQ/vprv/1/go/1/ns/PalEPGiseJ_uWmbYDgdxAKMR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/n/scseCQQ4ONCDw5ae6n/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOFWVMaGNywkgRzSwEeGGj_RmScJ5SH8WVKtrcVhmlT6AiBbcMBtJ_Wn8tc5eiZZUMekJMfn9RnqVVsFOBzJn-A70Q%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", Taiwan TTV News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -726,7 +726,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Times Square" tvg-logo="" tvg-id="", Times Square: 1560 Broadway View Live
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767434158/ei/TpNYaa2iO8rfir4PpfiQ4Aw/ip/135.232.208.147/id/4qyZLflp-sI.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYUSA3AskthiPL9_JueOSRw71o3gZpvxM7ZcOxhS0IFDgqRQW19aXdJ-0MfRrI81tZTvBkg5GtBCKZGY/spc/wH4Qq1OtLk7rHyviYMte74KvIHV99_LrIi6ylaXfoJexI2yP3bwP-wHrmGt6h84hmAA/vprv/1/go/1/ns/CjOkySReLDLvyprp_GiTph8R/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/n/5I-LNvEmEPt31YKCMJ/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgeZwNJDdkqtP9VPaNztkwFtKk5_HlSE88LjYffQ5JdnMCIQDMfb-28OTpEZYcf2RSVbKBpruLKYVtEjPQr4FaWNn8IQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Camera" tvg-logo="" tvg-id="", Dubuque County - Dome
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -741,7 +741,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Arabic" tvg-logo="" tvg-id="", Al-Jazeera
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767434166/ei/VZNYadbZPMmbzN0PvqTSsQw/ip/135.232.208.147/id/bNyUyrR0PHo.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYUSA3Azf7T4H9ZBn1A0aLO-rSLZvwJFtbHM8afzVYc5mY5LZKpVe-SQFuPNA26RiviG6sPjP_Vua-CT/spc/wH4Qq_r1y-A0ZzyfvxLYXgkLas7jvK40c1YADQHsOAXziLQ_hihYNLyd4Z_96IoineU/vprv/1/go/1/ns/KD4HVGu0mC6kB8a4biKuEL8R/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/n/7urg_igwptvlN1d3OI/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgM3VZtr0hsNBlclRQfecXvbKMFzGMoDvTOk-mS4AZwnYCID2qXTSMUdVPdtl8mUOR_dgzq7yH96D8rvyfCRCvDSF4/file/index.m3u8
 
 #EXTINF:-1 group-title="Arabic" tvg-logo="" tvg-id="", Al-Jazeera Mubasher
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u

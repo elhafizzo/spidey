@@ -600,7 +600,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Livecam" tvg-logo="" tvg-id="", CABANA BALEA LAC - P1428
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1768598355/ei/81ZqacuaEc6_kucPkODqoQ4/ip/145.132.100.85/id/87D-GzRNOq4.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_r7HRyd0Mo3WdZ3E28Kov4AtZYIk71iQ2ct_Kj-v4lG7xJmINFTGcMkNsX0IfMgCTfL3RSFg8vE/spc/q5xjPJMOxamwu0LElOThZF99EpSVaupTpSpZnjBsghBethxft2z4cFgfU1vAbFyC_4k/vprv/1/go/1/ns/F1pipTokgSZKIzykfLQg8aAR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/n/L8UF2czzG3-CWwouCp4/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgQgqvMPsCcWEQyJ-2HF62GnvuwyZcElni-qqHrG62g68CIQCTMeIha40_KZAlszOf1FjN6z7KM-6LNerI8dc0lbmUTQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Radio" tvg-logo="" tvg-id="", Radio Star FM Romania https://radiostarfmromania.com
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u

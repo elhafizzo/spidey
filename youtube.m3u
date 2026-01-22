@@ -396,7 +396,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Odisha" tvg-logo="" tvg-id="", OTV 24x7
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769106748/ei/3BhyaZq6EJfBkucPksKO8AM/ip/20.55.15.224/id/m59bwMP7BwU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691027/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_o-mlqIAFrykALp4djAbl9Q_f6rjYa8BDh1gaxxQcZNJAVKOVOFg8jqQHk1veXHvcNDS2B9X3EA/spc/q5xjPLyXERtEwRSSOgkhqNyrXl2SRezqiHBeIYyRGwgq4Za4seV0meLRQplFn1MZ2oaaDQ/vprv/1/go/1/ns/6yVcykl-_iwASvTuZejhhFMS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968%2C51626155/dover/11/n/0hIveajBm-iQs9DRF/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgW1YloVc3Hgp22XBt0wsSStAUwnFBBEkO94KEMavNwbMCIQCBpEfkxwzcX3JaUMb5StSAy9peYiSZ6XsGNx4mSDm4vw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Odisha" tvg-logo="" tvg-id="", News 18 Odia
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -585,7 +585,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Livecam" tvg-logo="" tvg-id="", Castelul Bran - Dracula's Castle - Casa din Bran
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769106816/ei/HxlyaYDXPIaXr9gPjZyKsAY/ip/20.55.15.224/id/8hgQsI1CfsY.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_ppCjujceKg-TkHrLhgjylZRJ5vmjLPpz9daWdPZu2v1AO2zCraZ_xXoeLI-uUtQ5_VEpZra5Vt/spc/q5xjPAJ16eG_Ew2vyCJDSgHqHnRJQa2_hZR2E-yBSPfPdV7z2gZKAQIlOwmdmuXUZ3_CUw/vprv/1/go/1/ns/RIlEiCV8lyU7VI4ie_nzOYMS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968%2C51626155/dover/11/n/tuXq-92C9nKg-KfLP/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRAIgGr5VsAp6KHKfBwjmEd7lGoLiyuqWywWksoRKK14GzeoCIB0VNhZyaAKzYa1rQX-jVdCznMKiyx32kMXHO2mnym_i/file/index.m3u8
 
 #EXTINF:-1 group-title="Livecam" tvg-logo="" tvg-id="", Sanctuarul de ursi Libearty Zarnesti
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u

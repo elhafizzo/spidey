@@ -741,7 +741,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Arabic" tvg-logo="" tvg-id="", Al-Jazeera
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769375809/ei/4TN2aYvAMLa_lu8PganR2Ag/ip/135.232.200.67/id/bNyUyrR0PHo.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_oCj3MT7lNvPo4OQX494WIvrFBE5QJGkoBWaUMy_xwcQhMY5PxllZe4oKqfpbt2e1RPzKHKRjU8/spc/q5xjPKsbivl-Njh2jCzItHDZj9R7VgwOO5mQANHYFuYmieEk0UBtBLSOTnMKsN04kAa7Tw/vprv/1/go/1/ns/b1e39e6jdE9s3CQzy1jYz0wS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/n/4fQc5NRA_OiLe8g7/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRgIhALYVfeKDv2-IjJ7I1VO_W21P2JsCp1tuGvhyN_RehjK2AiEA4VvS5MpjepDabH196vCQYIf6xVnQwTFAbaQvASIaN8g%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Arabic" tvg-logo="" tvg-id="", Al-Jazeera Mubasher
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u

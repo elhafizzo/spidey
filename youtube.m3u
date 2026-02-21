@@ -54,7 +54,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_793/LOGO/5Jz56JGv.png" tvg-id="677", Puthiya Thalaimurai
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1771730100/ei/UyCaabzgO8Ctir4Pqqa1oAM/ip/172.212.165.68/id/VNzHENanD0g.28/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/0/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AVNa5-xzlkVasD19-4fPYfAzc2Sn-Ws1u43_UwIiTCkWhh85HIzJIXQ3uQ5ZdiF34MlHm9oyP62AnMno/spc/6dlaFAbN6LNP97FskmgDbvYLtDeEbAby3v5l7P2Zb7M-fDA4PTO-zMpb5euf-8KdBXfJdA/vprv/1/go/1/ns/kzOiu8DaNzMcVm5ED3RW5dYS/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51552689%2C51565116%2C51565682%2C51580968/dover/11/n/5D8TY6rdbVQbw-A2xxw/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AJEij0EwRQIhAPBBPp2Sx1tO1KEcOnLIKAC1ZNgvb8MeIopccXQRcmmeAiA63nf2Bg77LqAmhzTbhQ6cIcNJjuBxhUm2UiGqJa2xpg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Urdu" tvg-logo="" tvg-id="", GNN
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -411,7 +411,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", DC Kids live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1771719907/ei/g_iZafPjCI3OkucPqaGe4AE/ip/20.109.95.99/id/Gu-9Selumnc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/0/txs/51666463%2C51666464%2C51666465%2C51666466%2C51666467/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AVNa5-ziEo7yhLlDoIbdWZ_p-93xQu3txZRlwvw9EMt_cv29NFeBufLWjptQQTsoXT02s3iL8K6pVBKt/spc/6dlaFPXpaGCp7VvBLBX31QFO1AedX8bgs1hAhFdKqPjUuq8NUm17OyXi5nT_d2SqxVErXA/vprv/1/go/1/ns/hPMgDWfm69v-Hqln5DyJwEAS/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51552689%2C51565115%2C51565681%2C51580968/dover/11/n/FXbPXiZZOfXXEHsMhKw/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AJEij0EwRAIgNh5ae4s51bACayjVyeAM6ITBuLUxMhfa4YkaRWdnZIkCID1JvHd7vse1fDsMsHcjOUTr7Ob2C8TjNJB_FQeBin1A/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="https://pbs.twimg.com/profile_images/1369214431268200453/JIj9kAeK_400x400.jpg" tvg-id="", Jai Maharashtra
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -495,7 +495,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan Landscape" tvg-logo="" tvg-id="", Taiwan Taipei
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1771719943/ei/p_iZaYbqC-aGr9gPofXuwAw/ip/20.109.95.99/id/z_fY1pj1VBw.10/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AVNa5-wHAZKt_s_j9-U9MmaPFuOTib-lHevABxsajgf7LG1qcVrsq8c7yb39xGYLBhJsA8FxzT-b_-uS/spc/6dlaFPPvZcY3HtoNjqIZozTv8TC7nhDxAOb1aQebovle8q7cXYHoGycS5t6FSrGvDHGZJQ/vprv/1/go/1/ns/bwQ_GuMPjJOh2x2DbB2GZYQS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51552689%2C51565115%2C51565682%2C51580968/dover/11/n/s9TUERiXXzBgDRFfvnL/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgOa0RID_pi06q6xWV-uRgpyjI_LW5UleFbSP49_yISyoCIQDmFJBD8f7QEFs_gQfiaXibOdIBU6OA1a0pqy2Xpq2Cxg%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan Landscape" tvg-logo="" tvg-id="", Taiwan Taipei Bishan Temple
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u

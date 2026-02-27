@@ -192,7 +192,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="", Best Shuffle Dance Music 2021
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1772238722/ei/IuOhaYXjB7O0ir4Py5ylmAw/ip/52.154.20.58/id/qWf-FPFmVw0.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51691027/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AVNa5-ysN5ZkHO4stkj7Gm_1Mn_1HqI0JXBIG7Bfle4407z2OFa7sjgqYbO-oogoLAxjqBKXSzxYQ2W6/spc/6dlaFC_abcA877-nBbO_fFsfToRBrRXpdMFD02DQqi-v2rmg17aGWya4Az5B4A5XxB0Phg/vprv/1/go/1/ns/9pAqI-oTvPGRIZbx_0c2vCkS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51552689%2C51565115%2C51565681%2C51580968%2C51791334%2C51801807/dover/11/n/JdD4a5oLGxgCCa_i/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIhAKYihPOSNXUYT6DqmqGw2AZGbW_V1LLFk90QaI_ZIvRfAiA1gKqDHDT-90MH96zb-z6oi4LOzkNwB5ApLMUlSgcp3w%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", NDTV Profit
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -687,7 +687,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/6Vw9jUF.png" tvg-id="", ABC News Australia
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1772238961/ei/EeShaY_oLsXzybgP9qWHiA0/ip/52.154.20.58/id/vOTiJkg1voo.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AVNa5-zcjevXVC3yPzEZ5QrnKSawVQubrWw7MTGC2sEnYNxJQX-UkFYsDg_uRpM0YKBY1qnBumK5Ph0k/spc/6dlaFAp1rJGGd4tnGba25-1mbqy5ZA0Pz_YtNJNnKdOlUaefvkumhz7FG90zgABp5t0T2w/vprv/1/go/1/ns/B2vfk974mw1QGoKASrvjY1sS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51552689%2C51565116%2C51565681%2C51580968%2C51791334%2C51801809/dover/11/n/YcY4nYBR6JV_X4hT/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRgIhAN6MY810Er33_II2X3THsVFXyaSIAiv7O9ABeY_zxO2XAiEAk8iVcGmwgupYUZ7-MkJK6PHRtv0nXf_zV6zGM8IFeLY%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/vR0TpN9.png" tvg-id="", Bloomberg Global Financial News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u

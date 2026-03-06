@@ -48,7 +48,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://www.thanthitv.com/Images/TTV-800x800.png" tvg-id="830", Thanthi TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1772767589/ei/BfWpad-LD47mir4PjP6r4AE/ip/64.236.135.122/id/8kjza8MzPXE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51774351/txs/51774349%2C51774350%2C51774351%2C51774352/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AVNa5-xz8YrwIBpfFGXzP9N4h7tnKyL-uKmBJ92ZeWKa57X6AkHO3jVDga5ZzIA8knBZ19Spt72TUhnL/spc/6dlaFITcHeyF6kOWtabViqkrskppm7dCp6cx7yveJH5UQvEGyI9T0wHLR2ea-OApfERZaA/vprv/1/go/1/ns/pBbzxSeJ7LajZVjbfGy9J74T/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682%2C51791334/dover/11/n/dazQ2qqgEO8hgXxz/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhALJWf9uZ1bS5l7YAqd2aP3QWFeYQhsKfitIS7D4aHrQLAiAJuDW9m-UeNPji9J2int_vJx-pW5FJtRdJ_wcWbwyopg%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://7starcloud.in/NB.png" tvg-id="ts58", New18 TamilNadu
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -675,7 +675,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/rVWYpIT.png" tvg-id="", The Good Life Radio
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1772781960/ei/KC2qae2JAdvyybgPs-uh-Qc/ip/52.154.131.108/id/36YnV9STBqc.12/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AVNa5-ylnYHns0tBD9YzMsAt9VaxAEuqbC92QOOFLGm_HB6ZLsKMx9K09dQfzforCCMr-5OyjYnf9vxA/spc/6dlaFEvPDsN93tMoAAtFqDJk-WTYXbMF9diKy_EIwUYXA7v3cU76mxcfdHuXsBPJlrY3Cw/vprv/1/go/1/ns/Tn6rgjthzdCg6n-w_C3-BaAT/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682%2C51791334/dover/11/n/-ovK5jP3Ck7Y755F/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgEQr38vn7XDwWXndyC0OVw7-v9nvjZ2Y_KBXQV43XOg4CIAkghPIJUh7rg5RU-v2XgD7M-NQlcMu5veInCy_2URzr/file/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/rVWYpIT.png" tvg-id="", Deep House Radio
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u

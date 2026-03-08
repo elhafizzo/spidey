@@ -759,7 +759,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Japanese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/ANN_logo.svg" tvg-id="", ANN JapaNews24
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1773015983/ei/T7-taaDqHfmMlu8P-p6Q0Ac/ip/64.236.201.16/id/coYw-eVU0Ks.9/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51757985/txs/51757982%2C51757983%2C51757984%2C51757985/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AVNa5-wM9YMvBiK5SICK01_4pqw-fVCBzpl-Y_4oUwemhUWIow30h7tIzgqyHjHjV1ytq_zzIueUR69b/spc/6dlaFCEUmkFZZCUlakFkwrRQfvqJZocDgQfxdEGdwCKM3tQdcLLZBy6o7ONHWESg1Xujog/vprv/1/go/1/ns/nZl376_eEMITUIqfeHUtRBAT/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682%2C51791334/dover/11/n/l3D85xcqJNO-7Q9B/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgRqDfMoYHNsYDhihO0h4m-SUvH2FlsxnjQnz95CMB0D4CIA2UVsH3OiAcoJRXmRhir2RL_Zz44rHqPLeRG9tTHADm/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Japanese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/ANN_logo.svg" tvg-id="", ANN News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u

@@ -39,7 +39,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/News18_Kerala.png" tvg-id="", News 18 Kerala
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1775546978/ei/Al7UaZr8E5LfybgP34DeiAY/ip/20.168.118.81/id/3NAKArpEIEY.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51828959/txs/51828959%2C51828960%2C51828961/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AUUZDGLWrLALMjfErfzvrpgHQeJYjoSXLR3EtVdQvNJkyAJwrORFiCEVqU8yICqFf8cAA9qR_yKgIm7R/spc/jlWavVXTCZlwAFoKe8B_kyyWQ2l1TWUeqMmbKOhGo_CHs-WLuNuO4bN6UBarvUYlk7Fxpg/vprv/1/go/1/ns/jlobG0F2_bP5jVbWXJZHA3oU/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681/dover/11/n/GgXf2dJ4HNt_Vu6tc/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhAKATG2tbQrjy92UZCwMAvgC5EMEbQRa95kbnwr7_6iUzAiEA3FVpocvEmNpnd2Ln38aMFmNo3fEXRRqoHESN7k8RdMs%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://akamaividz.zee5.com/resources/0-9-203/list/386x386/09203polimernews.png" tvg-id="636", Polimer News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -402,7 +402,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="", Kitten Academy Livestream
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1775532768/ei/gCbUab3CEuneir4Pldb2iAQ/ip/64.236.177.113/id/T4XZmMPQ9Kw.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUUZDGIsLXJTL-psNrhhlhVa4HSRNefpjo0MP9_imgmAb1v7wVLp7Rz6SSabNbi1ew31NXVSGaHR0I6N/spc/jlWavbYw4k1R6QE24r6SlzqTLHy97bgp48d3Md28c0kzBmrQAX7gsPxZr_7lNumR4asMhw/vprv/1/go/1/ns/fsOI20P2xd4Higyy-Y9654MU/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681%2C51869321/dover/11/n/CGgwcmVbK0ZNyeUZs/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgR809djFt5InPR4kXXCjU8lcktXD8en78gpOxeC9O_ocCIQDppLevwux5Ddc5gAglAjUxCq3fjR3uz-6I0dSurfu8yA%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malaysia" tvg-logo="" tvg-id="", Bernama TV
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -411,7 +411,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", DC Kids live
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1775547144/ei/qF7UaeXuD46kir4P9ZaeiAk/ip/20.168.118.81/id/8NM2yARjz2M.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51828959/txs/51828959%2C51828960%2C51828961/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AUUZDGLkWYjpn2QpMq7kmAVg-IgLxRyh4mFy3FxTwZDSFoAtXbjciziAkZnkq8edqd2UxzXeNFhuaBFW/spc/jlWavb9fiksBD6FmX0PYWR5_-t1iiI2GQfCBv5Si9XSLXQ873XNh2v1IXiLUEuDGxkshtg/vprv/1/go/1/ns/exhOcfcS0G6DNY2QqmU27OIU/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681/dover/11/n/O7wj8nRt6pkjh8w4h/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhAKGKjn8G4LhoVrNR5Ee3YTIT_ebSN04EXCQi0TEcoWseAiAuof1O5syUlis2KccyhqjRG_BTodjv7BvIvdjkL_o0cA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="https://pbs.twimg.com/profile_images/1369214431268200453/JIj9kAeK_400x400.jpg" tvg-id="", Jai Maharashtra
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
